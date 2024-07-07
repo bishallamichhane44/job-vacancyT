@@ -7,70 +7,59 @@ const Footer = () => {
 				<h2>DEVELOPERS</h2>
 				<div className='row text-center text-xs-center text-sm-left text-md-left'>
 					<div className='col-xs-12 col-sm-3 col-md-3'>
-						<h5>Arpan Gyawali</h5>
+						<h5>Bishal Lamichhane</h5>
 						<ul className='list-unstyled quick-links'>
 							<li>
-								<i className='fa fa-angle-double-right'></i>075BCT014
+								<i className='fa fa-angle-double-right'></i>078BCT035
 							</li>
 							<li>
-								<i className='fa fa-angle-double-right'></i>Lead Developer
+								<i className='fa fa-envelope'></i>078bct035.bishal@pcampus.edu.np
 							</li>
 							<li>
-								<i className='fa fa-envelope'></i>arpan.gyawali7@gmail.com
-							</li>
-							<li>
-								<i className='fa fa-phone'></i>9861288923
+								<i className='fa fa-phone'></i>9864511097
 							</li>
 						</ul>
 					</div>
 					<div className='col-xs-12 col-sm-3 col-md-3'>
-						<h5>Bijay Shrestha</h5>
+						<h5>Bipin Bashyal</h5>
 						<ul className='list-unstyled quick-links'>
 							<li>
-								<i className='fa fa-angle-double-right'></i>075BCT020
+								<i className='fa fa-angle-double-right'></i>075BCT033
 							</li>
 							<li>
-								<i className='fa fa-angle-double-right'></i>BackEnd Developer
+								<i className='fa fa-envelope'></i>078bct033.bipin@pcampus.edu.np
 							</li>
 							<li>
-								<i className='fa fa-envelope'></i>shrestha.bj2056@gmail.com
-							</li>
-							<li>
-								<i className='fa fa-phone'></i>9861304754
+								<i className='fa fa-phone'></i>9861750396
 							</li>
 						</ul>
 					</div>
 					<div className='col-xs-12 col-sm-3 col-md-3'>
-						<h5>Bidhan Khatiwada</h5>
+						<h5>Roshan Karki</h5>
 						<ul className='list-unstyled quick-links'>
 							<li>
-								<i className='fa fa-angle-double-right'></i>075BCT018
+								<i className='fa fa-angle-double-right'></i>078BCT098
 							</li>
 							<li>
-								<i className='fa fa-angle-double-right'></i>Database Manager
+								<i className='fa fa-envelope'></i>078bct098.roshan@pcampus.edu.np
 							</li>
 							<li>
-								<i className='fa fa-envelope'></i>bidhankhatiwada32@gmail.com
-							</li>
-							<li>
-								<i className='fa fa-phone'></i>9840170701
+								<i className='fa fa-phone'></i>9827489335
 							</li>
 						</ul>
 					</div>
 					<div className='col-xs-12 col-sm-3 col-md-3'>
-						<h5>Akash Panthi</h5>
+						<h5>Ayush KC</h5>
 						<ul className='list-unstyled quick-links'>
 							<li>
-								<i className='fa fa-angle-double-right'></i>075BCT010
+								<i className='fa fa-angle-double-right'></i>078BCT025
+							</li>
+	
+							<li>
+								<i className='fa fa-envelope'></i>078bct025.ayush@pcampus.edu.np
 							</li>
 							<li>
-								<i className='fa fa-angle-double-right'></i>FrontEnd developer
-							</li>
-							<li>
-								<i className='fa fa-envelope'></i>akashpanthi.12@gmail.com
-							</li>
-							<li>
-								<i className='fa fa-phone'></i>9868372595
+								<i className='fa fa-phone'></i>9816692580
 							</li>
 						</ul>
 					</div>
