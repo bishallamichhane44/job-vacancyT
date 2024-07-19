@@ -1,10 +1,9 @@
 # The Unnamed: A Job Hosting Web App
 
-> Developed by teams members involving Arpan Gyawali, Bijay Shrestha, Bidhan Khatiwada and Aakash Panthi from Pulchowk Engineering campus as a minor project of Software Engineering.
 
 Here, Recruiter companies can provide job opportunity for the people out there seeking for jobs in a convinient way. This benefits companies as well as job seekers.
 
-[Visit our website](https://damp-spire-73123.herokuapp.com/)
+[Visit our website](http://http://jobs.bct.itclub.pp.ua/)
 
 ## Here are some screenshots
 
