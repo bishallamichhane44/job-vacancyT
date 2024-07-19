@@ -3,7 +3,7 @@
 
 Here, Recruiter companies can provide job opportunity for the people out there seeking for jobs in a convinient way. This benefits companies as well as job seekers.
 
-[Visit our website](http://http://jobs.bct.itclub.pp.ua/)
+[Visit our website](http://jobs.bct.itclub.pp.ua/)
 
 ## Here are some screenshots
 
@@ -30,7 +30,7 @@ Here, Recruiter companies can provide job opportunity for the people out there s
   ![recruiters screenshot](Recruiter2.png)
 
 **Note:**
-[For admin login](https://damp-spire-73123.herokuapp.com/login-admin/)
+
 
 Admin can also post jobs provided by different company for organization students only.They need special access.
 
