@@ -20,7 +20,7 @@ const Landing = ({ isAuthenticated }) => {
 					<div className='row d_flex'>
 						<div className='col-md-5'>
 							<div className='text-bg'>
-								<h1>The Unnamed</h1>
+								<h1>Job Vacancy</h1>
 								<span>A Job Hosting Web App</span>
 								<p>
 									Recruiter companies can provide job opportunity for the people

@@ -57,7 +57,7 @@ const Navbar = ({ auth, logout }) => {
 				{/* <div className = "logo-image">
           <img src={image} alt="logo of the website" />
         </div> */}
-				<h1>The Unnamed</h1>
+				<h1>Job Vacancy</h1>
 			</Link>
 			<ul>
 				<li>

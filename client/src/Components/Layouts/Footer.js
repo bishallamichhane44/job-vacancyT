@@ -69,7 +69,7 @@ const Footer = () => {
 						<p>
 							Pulchowk Engineering Campus, Tribhuvan University
 							<br />
-							Software Engineering Project submitted to{' '}
+							DBMS Project submitted to{' '}
 							<strong>Prof. Aman Sakhya</strong>
 						</p>
 						<p className='h6'>© All Right Reversed.</p>
